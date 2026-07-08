@@ -1,2 +1,9 @@
 aa a.txt
 aa aaa
+
+'''
+git status      # وضعیت را ببین
+git add .       # تغییرات را Stage کن
+git commit -m "پیام"
+git log --oneline   # کامیت‌ها را ببین
+'''
